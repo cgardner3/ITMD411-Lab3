@@ -1,0 +1,13 @@
+Data analytic results:
+
+Avg inc. for Females: $28646.32
+Avg inc. for Males: $27225.83
+
+Num. of Females with Mortgage & savings acct: 71
+
+Innercity region males with car & 1 child: 15
+Rural region males with car & 1 child: 9
+Suburban region males with car & 1 child: 3
+Town region males with car & 1 child: 7
+
+Cheryl Gardner 2020/11/14 17:40:14
